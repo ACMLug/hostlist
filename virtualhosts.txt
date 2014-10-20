@@ -1,6 +1,6 @@
 fqdn				 	addresses	   application
 engr-acm-lug-01.acm.illinois.edu 	192.17.239.11      rsyslog
-engr-acm-lug-02.acm.illinois.edu 	192.17.239.12
+engr-acm-lug-02.acm.illinois.edu 	192.17.239.12	   dev
 engr-acm-lug-03.acm.illinois.edu 	192.17.239.13
 engr-acm-lug-04.acm.illinois.edu 	192.17.239.14
 engr-acm-lug-05.acm.illinois.edu 	192.17.239.15
