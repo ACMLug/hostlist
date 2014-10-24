@@ -1,7 +1,7 @@
 fqdn				 	addresses	   application
 engr-acm-lug-01.acm.illinois.edu 	192.17.239.11      rsyslog
 engr-acm-lug-02.acm.illinois.edu 	192.17.239.12	   dev
-engr-acm-lug-03.acm.illinois.edu 	192.17.239.13
+engr-acm-lug-03.acm.illinois.edu 	192.17.239.13	   islet
 engr-acm-lug-04.acm.illinois.edu 	192.17.239.14
 engr-acm-lug-05.acm.illinois.edu 	192.17.239.15
 engr-acm-lug-06.acm.illinois.edu 	192.17.239.16
@@ -26,4 +26,4 @@ engr-acm-lug-24.acm.illinois.edu 	192.17.239.34
 engr-acm-lug-25.acm.illinois.edu 	192.17.239.35
 
 router 192.17.239.1
-netmask 255.255.255.128 
+netmask 255.255.255.128
