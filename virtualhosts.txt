@@ -1,10 +1,10 @@
 fqdn				 	addresses	   application
-engr-acm-lug-01.acm.illinois.edu 	192.17.239.11      rsyslog
-engr-acm-lug-02.acm.illinois.edu 	192.17.239.12	   dev
-engr-acm-lug-03.acm.illinois.edu 	192.17.239.13	   islet
-engr-acm-lug-04.acm.illinois.edu 	192.17.239.14
-engr-acm-lug-05.acm.illinois.edu 	192.17.239.15
-engr-acm-lug-06.acm.illinois.edu 	192.17.239.16
+engr-acm-lug-01.acm.illinois.edu 	192.17.239.11	rsyslog
+engr-acm-lug-02.acm.illinois.edu 	192.17.239.12	dev
+engr-acm-lug-03.acm.illinois.edu 	192.17.239.13	islet
+engr-acm-lug-04.acm.illinois.edu 	192.17.239.14	pxe
+engr-acm-lug-05.acm.illinois.edu 	192.17.239.15	collectd	 
+engr-acm-lug-06.acm.illinois.edu 	192.17.239.16 nagios
 engr-acm-lug-07.acm.illinois.edu 	192.17.239.17
 engr-acm-lug-08.acm.illinois.edu 	192.17.239.18
 engr-acm-lug-09.acm.illinois.edu 	192.17.239.19
