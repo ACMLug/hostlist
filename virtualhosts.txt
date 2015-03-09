@@ -7,7 +7,7 @@ engr-acm-lug-05.acm.illinois.edu 	192.17.239.15	graphite/collectd (jschipp)
 engr-acm-lug-06.acm.illinois.edu 	192.17.239.16   nagios (jschipp)
 engr-acm-lug-07.acm.illinois.edu 	192.17.239.17   gitlabs (jschipp)
 engr-acm-lug-08.acm.illinois.edu 	192.17.239.18   tunnel (jschipp)
-engr-acm-lug-09.acm.illinois.edu 	192.17.239.19
+engr-acm-lug-09.acm.illinois.edu 	192.17.239.19   repo (jschipp)
 engr-acm-lug-10.acm.illinois.edu 	192.17.239.20
 engr-acm-lug-11.acm.illinois.edu 	192.17.239.21
 engr-acm-lug-12.acm.illinois.edu 	192.17.239.22
