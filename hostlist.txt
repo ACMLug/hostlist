@@ -8,7 +8,7 @@ fqdn addresses application (owner)
 -engr-acm-lug-07.acm.illinois.edu 192.17.239.17 gitlabs (jschipp)
 -engr-acm-lug-08.acm.illinois.edu 192.17.239.18 tunnel (jschipp)
 -engr-acm-lug-09.acm.illinois.edu 192.17.239.19 repo (jschipp)
--engr-acm-lug-10.acm.illinois.edu 192.17.239.20
+-engr-acm-lug-10.acm.illinois.edu 192.17.239.20 ftp (wayland)
 -engr-acm-lug-11.acm.illinois.edu 192.17.239.21
 -engr-acm-lug-12.acm.illinois.edu 192.17.239.22
 -engr-acm-lug-13.acm.illinois.edu 192.17.239.23
