@@ -1,28 +1,28 @@
 fqdn addresses application (owner)
--engr-acm-lug-01.acm.illinois.edu 192.17.239.11 syslog (jschipp)
--engr-acm-lug-02.acm.illinois.edu 192.17.239.12 dev (jschipp)
--engr-acm-lug-03.acm.illinois.edu 192.17.239.13 islet (jschipp)
--engr-acm-lug-04.acm.illinois.edu 192.17.239.14 pxe (jschipp)
--engr-acm-lug-05.acm.illinois.edu 192.17.239.15 graphite/collectd (jschipp)
--engr-acm-lug-06.acm.illinois.edu 192.17.239.16 nagios (jschipp)
--engr-acm-lug-07.acm.illinois.edu 192.17.239.17 gitlabs (jschipp)
--engr-acm-lug-08.acm.illinois.edu 192.17.239.18 tunnel (jschipp)
--engr-acm-lug-09.acm.illinois.edu 192.17.239.19 repo (jschipp)
--engr-acm-lug-10.acm.illinois.edu 192.17.239.20 ftp (wayland)
--engr-acm-lug-11.acm.illinois.edu 192.17.239.21
--engr-acm-lug-12.acm.illinois.edu 192.17.239.22
--engr-acm-lug-13.acm.illinois.edu 192.17.239.23
--engr-acm-lug-14.acm.illinois.edu 192.17.239.24
--engr-acm-lug-15.acm.illinois.edu 192.17.239.25
--engr-acm-lug-16.acm.illinois.edu 192.17.239.26
--engr-acm-lug-17.acm.illinois.edu 192.17.239.27
--engr-acm-lug-18.acm.illinois.edu 192.17.239.28
--engr-acm-lug-19.acm.illinois.edu 192.17.239.29
--engr-acm-lug-20.acm.illinois.edu 192.17.239.30
--engr-acm-lug-21.acm.illinois.edu 192.17.239.31
--engr-acm-lug-22.acm.illinois.edu 192.17.239.32
--engr-acm-lug-23.acm.illinois.edu 192.17.239.33
--engr-acm-lug-24.acm.illinois.edu 192.17.239.34
--engr-acm-lug-25.acm.illinois.edu 192.17.239.35
--
--router 192.17.239.1
+engr-acm-lug-01.acm.illinois.edu 192.17.239.11 syslog (jschipp)
+engr-acm-lug-02.acm.illinois.edu 192.17.239.12 dev (jschipp)
+engr-acm-lug-03.acm.illinois.edu 192.17.239.13 islet (jschipp)
+engr-acm-lug-04.acm.illinois.edu 192.17.239.14 pxe (jschipp)
+engr-acm-lug-05.acm.illinois.edu 192.17.239.15 graphite/collectd (jschipp)
+engr-acm-lug-06.acm.illinois.edu 192.17.239.16 nagios (jschipp)
+engr-acm-lug-07.acm.illinois.edu 192.17.239.17 gitlabs (jschipp)
+engr-acm-lug-08.acm.illinois.edu 192.17.239.18 tunnel (jschipp)
+engr-acm-lug-09.acm.illinois.edu 192.17.239.19 repo (jschipp)
+engr-acm-lug-10.acm.illinois.edu 192.17.239.20 ftp (wayland)
+engr-acm-lug-11.acm.illinois.edu 192.17.239.21
+engr-acm-lug-12.acm.illinois.edu 192.17.239.22
+engr-acm-lug-13.acm.illinois.edu 192.17.239.23
+engr-acm-lug-14.acm.illinois.edu 192.17.239.24
+engr-acm-lug-15.acm.illinois.edu 192.17.239.25
+engr-acm-lug-16.acm.illinois.edu 192.17.239.26
+engr-acm-lug-17.acm.illinois.edu 192.17.239.27
+engr-acm-lug-18.acm.illinois.edu 192.17.239.28
+engr-acm-lug-19.acm.illinois.edu 192.17.239.29
+engr-acm-lug-20.acm.illinois.edu 192.17.239.30
+engr-acm-lug-21.acm.illinois.edu 192.17.239.31
+engr-acm-lug-22.acm.illinois.edu 192.17.239.32
+engr-acm-lug-23.acm.illinois.edu 192.17.239.33
+engr-acm-lug-24.acm.illinois.edu 192.17.239.34
+engr-acm-lug-25.acm.illinois.edu 192.17.239.35
+
+router 192.17.239.1
