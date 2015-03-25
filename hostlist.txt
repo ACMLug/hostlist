@@ -11,7 +11,7 @@ engr-acm-lug-09.acm.illinois.edu 192.17.239.19 repo (jschipp)
 engr-acm-lug-10.acm.illinois.edu 192.17.239.20 ftp (wayland)
 engr-acm-lug-11.acm.illinois.edu 192.17.239.21 docker1 (jschipp)
 engr-acm-lug-12.acm.illinois.edu 192.17.239.22 docker2 (jschipp)
-engr-acm-lug-13.acm.illinois.edu 192.17.239.23
+engr-acm-lug-13.acm.illinois.edu 192.17.239.23 www (jschipp)
 engr-acm-lug-14.acm.illinois.edu 192.17.239.24
 engr-acm-lug-15.acm.illinois.edu 192.17.239.25
 engr-acm-lug-16.acm.illinois.edu 192.17.239.26
