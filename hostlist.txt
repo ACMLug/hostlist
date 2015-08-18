@@ -1,7 +1,7 @@
 fqdn addresses application (owner)
 engr-acm-lug-01.acm.illinois.edu 192.17.239.11 syslog (jschipp)
 engr-acm-lug-02.acm.illinois.edu 192.17.239.12 dev (jschipp)
-engr-acm-lug-03.acm.illinois.edu 192.17.239.13 islet (jschipp)
+engr-acm-lug-03.acm.illinois.edu 192.17.239.13
 engr-acm-lug-04.acm.illinois.edu 192.17.239.14 pxe (jschipp)
 engr-acm-lug-05.acm.illinois.edu 192.17.239.15 graphite/collectd (jschipp)
 engr-acm-lug-06.acm.illinois.edu 192.17.239.16 nagios (jschipp)
@@ -12,8 +12,8 @@ engr-acm-lug-10.acm.illinois.edu 192.17.239.20 ftp (wayland)
 engr-acm-lug-11.acm.illinois.edu 192.17.239.21 docker1 (jschipp)
 engr-acm-lug-12.acm.illinois.edu 192.17.239.22 docker2 (jschipp)
 engr-acm-lug-13.acm.illinois.edu 192.17.239.23 www (jschipp)
-engr-acm-lug-14.acm.illinois.edu 192.17.239.24
-engr-acm-lug-15.acm.illinois.edu 192.17.239.25
+engr-acm-lug-14.acm.illinois.edu 192.17.239.24 islet1 (jschipp)
+engr-acm-lug-15.acm.illinois.edu 192.17.239.25 islet2 (jschipp)
 engr-acm-lug-16.acm.illinois.edu 192.17.239.26
 engr-acm-lug-17.acm.illinois.edu 192.17.239.27
 engr-acm-lug-18.acm.illinois.edu 192.17.239.28
