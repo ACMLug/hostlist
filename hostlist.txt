@@ -14,7 +14,7 @@ engr-acm-lug-12.acm.illinois.edu 192.17.239.22 docker2 (jschipp)
 engr-acm-lug-13.acm.illinois.edu 192.17.239.23 www (jschipp)
 engr-acm-lug-14.acm.illinois.edu 192.17.239.24 islet1 (jschipp)
 engr-acm-lug-15.acm.illinois.edu 192.17.239.25 islet2 (jschipp)
-engr-acm-lug-16.acm.illinois.edu 192.17.239.26
+engr-acm-lug-16.acm.illinois.edu 192.17.239.26 scheedule (sigsoft)
 engr-acm-lug-17.acm.illinois.edu 192.17.239.27
 engr-acm-lug-18.acm.illinois.edu 192.17.239.28
 engr-acm-lug-19.acm.illinois.edu 192.17.239.29
